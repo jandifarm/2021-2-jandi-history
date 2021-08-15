@@ -10,12 +10,12 @@
 
 ---
 
-- 🌱 [ShimJaewook](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/Shimjaewook.md)
-- 🌱 [dalsomin](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/dalsomin.md)
-- 🌱 [hataerin](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/hatearin.md)
-- 🌱 [hyeyoon0808](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/hyeyoon0808.md)
-- 🌱 [mijip0320](https://github.com/jandifarm/forest-farm-history-2021-2/blob/807b38ebd4c3b7221c37685c540e7fbb93ded03b/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/mijip0320.md)
-- 🌱 [souvenir718](https://github.com/jandifarm/forest-farm-history-2021-2/blob/807b38ebd4c3b7221c37685c540e7fbb93ded03b/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/souvenir718.md)
+- 🌲 [ShimJaewook](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/Shimjaewook.md)
+- 🌲 [dalsomin](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/dalsomin.md)
+- 🌲 [hataerin](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/hatearin.md)
+- 🌲 [hyeyoon0808](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/hyeyoon0808.md)
+- 🌲 [mijip0320](https://github.com/jandifarm/forest-farm-history-2021-2/blob/807b38ebd4c3b7221c37685c540e7fbb93ded03b/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/mijip0320.md)
+- 🌲 [souvenir718](https://github.com/jandifarm/forest-farm-history-2021-2/blob/807b38ebd4c3b7221c37685c540e7fbb93ded03b/01%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/souvenir718.md)
 
 #### 💰 벌금
 
