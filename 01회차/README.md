@@ -21,5 +21,5 @@
 
 ---
 
-[벌금 History](https://github.com/jandifarm/jandi-farm-history/blob/master/account-book.md)
+[벌금 History](https://github.com/jandifarm/forest-farm-history-2021-2/blob/acfda288e2b62fd84475f0553c26d7c63d2db146/%EB%B2%8C%EA%B8%88%EA%B8%B0%EB%A1%9D.md)
 
