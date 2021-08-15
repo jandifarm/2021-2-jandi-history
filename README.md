@@ -14,6 +14,6 @@
 #### [회의실](https://meet.google.com/hhc-ocui-noa)
 
 
-## 잔디 스크럼 기록
+## 숲잔디 스크럼 기록
 
-#### [🌲 jandi-farm 01회차](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/README.md)
+#### [🌲 forest-farm 01회차](https://github.com/jandifarm/forest-farm-history-2021-2/blob/master/01%ED%9A%8C%EC%B0%A8/README.md)
