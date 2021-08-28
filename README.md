@@ -15,4 +15,5 @@
 
 ## 숲잔디 스크럼 기록
 
-#### [🌲 forest-farm 01회차](https://github.com/jandifarm/forest-farm-history/blob/master/01%ED%9A%8C%EC%B0%A8/README.md)
+#### [🌲 forest-farm 01회차](https://github.com/jandifarm/forest-farm-history/blob/main/01%ED%9A%8C%EC%B0%A8/README.md)
+#### [🌲 forest-farm 02회차](https://github.com/jandifarm/forest-farm-history/blob/main/02%ED%9A%8C%EC%B0%A8/README.md)
